@@ -41,3 +41,20 @@ When executed, the program prompts for the following 7 parameters:
 
 ## 📷 Output Preview
 ![Task 2 Output](task2_output.png)
+
+---------
+
+---
+
+# Phase 1 - Task 3: Resume Generator
+
+## 📌 Description
+The **Resume Generator** is an interactive command-line tool that gathers key professional details (Education, Skills, Projects, Languages) and prints a structured, easy-to-read text resume.
+
+## 🛠️ Concepts Covered
+- **String Manipulation (`.split()`, `.strip()`, `.upper()`):** Converts comma-separated user inputs into individual items while removing extra whitespace.
+- **For Loops:** Iterates through lists of skills and projects to render clean bullet points.
+- **Text Formatting (`:^45`):** Centers the candidate's name across a fixed character width for header alignment.
+
+## 📷 Output Preview
+![Task 3 Output](task3_output.png)
