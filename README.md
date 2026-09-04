@@ -7,6 +7,8 @@ This Python script prints a formatted personal identity card displaying key deta
 - **Variables:** Used to store personal information as strings and numbers.
 - **f-strings (`f"..."`):** Used to insert variable values directly into the output format.
 - **String Multiplication (`"=" * 40`):** Used to dynamically render visually clean divider lines.
+- ## Output Screenshot
+![Task 1 Output](task1_output.png)
   
   -------
 
